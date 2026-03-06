@@ -1,0 +1,9 @@
+name: llava
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - torchvision==0.16.2
+  - pytorch-cuda=12.1
+  - pytorch==2.1.2
+prefix: /home/shhj1998/miniconda3/envs/llava
